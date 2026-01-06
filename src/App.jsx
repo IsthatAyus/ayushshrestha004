@@ -35,7 +35,7 @@ function App() {
         <div className="project">
           <h3>Starlight Collector</h3>
           <p>Made a java based 2d game using swing. It was developed as a college project to learn mvc model and oop concepts.</p>
-          <p><strong>Github:</strong><a href="https://github.com/PritamTheCoder/Starlight_Collector"> https://github.com/PritamTheCoder/Starlight_Collector</a></p>
+          <p><strong>Github:</strong><a href="https://github.com/PritamTheCoder/Starlight_Collector"> Click Here</a></p>
         </div>
       </div>
       

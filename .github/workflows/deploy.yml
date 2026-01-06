@@ -3,7 +3,7 @@ name: Build and Deploy to Plesk
 on:
   push:
     branches:
-      - main  # Change to 'master' if that's your default branch
+      - main 
 
 jobs:
   deploy:
@@ -16,7 +16,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20'  # Use Node 20 or whichever version you prefer
+          node-version: '20'  
           cache: 'npm'
       
       - name: Install dependencies
