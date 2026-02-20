@@ -187,7 +187,7 @@ function App() {
               
               <div className="about-stats">
                 <div className="stat">
-                  <div className="stat-number">2+</div>
+                  <div className="stat-number">1+</div>
                   <div className="stat-label">Years Experience</div>
                 </div>
                 <div className="stat">
@@ -241,7 +241,7 @@ function App() {
                     </a>
                   )}
                   {project.live && (
-                    <a href={project.live} target="_blank" rel="noopener noreferrer" className="project-link">
+                    <a href= "https://edulinkk.netlify.app/" target="_blank" rel="noopener noreferrer" className="project-link">
                       <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                         <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14L21 3"></path>
                       </svg>
